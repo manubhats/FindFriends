@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FindFriends</string>
+    <string name="action_settings">Settings</string>
+    <string name="appName">FindFriends</string>
+    <string name="email">Email</string>
+    <string name="password">Passoword</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+</resources>
